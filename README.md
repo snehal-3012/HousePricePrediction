@@ -23,7 +23,7 @@ The project involves the following steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-repo/housing-price-prediction.git
+   git clone https://github.com/snehal-3012/HousePricePrediction.git
    cd housing-price-prediction
 2. **Activate the virtual environment:**
    ```bash
